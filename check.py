@@ -18,3 +18,6 @@ while(1):
     if(percentage > threshold):
         subprocess.run('./warning.sh', shell = True)
     os.remove('./stream/file')
+
+
+#   EDIT 1: ASDFADSF
